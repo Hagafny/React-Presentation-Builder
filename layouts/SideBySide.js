@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 export const SideBySide = ({ children, style }) => (
   <div
@@ -13,4 +13,4 @@ export const SideBySide = ({ children, style }) => (
   >
     {children}
   </div>
-);
+)

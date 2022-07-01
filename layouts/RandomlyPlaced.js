@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const RandomlyPlaced = ({ top, left, style = {}, children }) => {
   const containerStyle = {
@@ -7,9 +7,9 @@ const RandomlyPlaced = ({ top, left, style = {}, children }) => {
     left: `${left}%`,
     top: `${top}%`,
     ...style,
-  };
+  }
 
-  return <div style={containerStyle}>{children}</div>;
-};
+  return <div style={containerStyle}>{children}</div>
+}
 
-export { RandomlyPlaced };
+export { RandomlyPlaced }

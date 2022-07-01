@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 export const IntroGrid = ({ children }) => (
   <div
@@ -12,4 +12,4 @@ export const IntroGrid = ({ children }) => (
   >
     {children}
   </div>
-);
+)

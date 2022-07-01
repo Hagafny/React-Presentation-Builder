@@ -1,3 +1,3 @@
 export default {
-  BUILDER_API_KEY: '100492d1ecd74efb94d139f7644a92ea',
-};
+  BUILDER_API_KEY: '53ee1b99f073404b958f53bb62426cb2',
+}

@@ -1,5 +1,5 @@
 {
-  "name": "react-deck-mdx",
+  "name": "react-presentation-builder",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -18,9 +18,7 @@
     "@emotion/styled": "^11.9.3",
     "@mui/material": "^5.8.5",
     "code-surfer": "^3.1.1",
-    "fireworks": "^2.2.7",
     "react-gauge-chart": "^0.4.0",
-    "react-kawaii": "^0.17.0",
     "react-spring": "^9.4.5",
     "styled-components": "^5.3.5"
   }

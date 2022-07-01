@@ -1,6 +1,6 @@
-import base from './base';
+import base from './base'
 
-const { TEXT, BACKGROUND, PRIMARY } = base;
+const { TEXT, BACKGROUND, PRIMARY } = base
 
 export default {
   colors: {
@@ -52,4 +52,4 @@ export default {
       },
     },
   },
-};
+}
